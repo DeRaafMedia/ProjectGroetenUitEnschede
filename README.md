@@ -14,6 +14,9 @@ I created this postcard series for the because a.) I love Enschede b.) I love th
 ![tag alt](https://github.com/DeRaafMedia/ProjectGroetenUitEnschede/blob/master/MuziekCentrum.jpg)
 ![tag alt](https://github.com/DeRaafMedia/ProjectGroetenUitEnschede/blob/master/Stationplein.jpg)
 ![tag alt](https://github.com/DeRaafMedia/ProjectGroetenUitEnschede/blob/master/VanHeekPlein.jpg)
+
+Example of a backside:
+
 ![tag alt](https://github.com/DeRaafMedia/ProjectGroetenUitEnschede/blob/master/backside.jpg)
 
 The photshop file can be found in ```bin/data```.
