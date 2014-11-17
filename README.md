@@ -19,4 +19,4 @@ Example of a backside:
 
 ![tag alt](https://github.com/DeRaafMedia/ProjectGroetenUitEnschede/blob/master/backside.jpg)
 
-The photshop file can be found in ```bin/data```.
+The PhotoShop file can be found in ```bin/data```.
